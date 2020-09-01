@@ -1,0 +1,15 @@
+{
+  "name": "express-redirect-nggyu",
+  "version": "1.0.0",
+  "description": "A node.js Express server to redirect all requests to Rick Astley's 'Never Gonna Give You Up'",
+  "main": "index.js",
+  "repository": "https://github.com/rentalspace04/express-redirect-nggyu.git",
+  "author": "Danyon Ramsay <danyon.ramsay@yahoo.com.au>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
